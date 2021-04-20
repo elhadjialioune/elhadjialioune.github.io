@@ -347,3 +347,19 @@ li i{
     font-size: 12px;
 }
 
+.item-voyage {
+    width: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.p-content {
+    height: 80%;
+}
+.btn-visit {
+    height: 10%;
+    width: 100px;
+    text-align: right;
+    margin-bottom: 5%;
+}
+
